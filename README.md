@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/bintangsholu21" target="blank">
+<h1 align="center">Halo 👋, Saya <a href="https://github.com/bintangsholu21" target="blank">
 Bintang Sholu</a></h1>
 <h3 align="center">Seorang Mahasiswa Biasa yang bisa bernafas</h3>
 <a target="_blank" align="center">
