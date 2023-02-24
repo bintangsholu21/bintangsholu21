@@ -5,7 +5,7 @@ Bintang Sholu</a></h1>
   <img align="right" top="500" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 </a>
 
-🔭 Seorang Mahasiswa Politeknik Negeri Malang Jurusan Teknik Informatika Program Studi Teknik Informatika
+🔭 Seorang Mahasiswa Politeknik Negeri Malang Program Studi Teknik Informatika
 
 🌱 Saya Sekarang berminat belajar tentang UI/UX Design
 
