@@ -2,16 +2,16 @@
 Bintang Sholu</a></h1>
 <h3 align="center">Seorang Mahasiswa Biasa yang bisa bernafas</h3>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 </a>
 
-- 🔭 Seorang Mahasiswa Politeknik Negeri Malang Jurusan Teknik Informatika Program Studi Teknik Informatika
+🔭 Seorang Mahasiswa Politeknik Negeri Malang Jurusan Teknik Informatika Program Studi Teknik Informatika
 
-- 🌱 Saya Sekarang berminat belajar tentang UI/UX Design
+🌱 Saya Sekarang berminat belajar tentang UI/UX Design
 
-- 👯 Saya ingin berkolaborasi dengan orang-orang yang berminat dalam bidang yang sama
+👯 Saya ingin berkolaborasi dengan orang-orang yang berminat dalam bidang yang sama
 
-- 📫 How to reach me <a href="mailto:bintangsholu@gmail.com">bintangsholu@gmail.com</a>
+📫 How to reach me <a href="mailto:bintangsholu@gmail.com">bintangsholu@gmail.com</a>
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
