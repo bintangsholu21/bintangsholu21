@@ -14,7 +14,7 @@ Bintang Sholu</a></h1>
 📫 How to reach me <a href="mailto:bintangsholu@gmail.com">bintangsholu@gmail.com</a>
 
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/r7Y17m4862kdW/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
