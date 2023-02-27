@@ -1,5 +1,5 @@
 <p align="center" >
-<img src="https://media.giphy.com/media/scGEXUBdf7G48/giphy.gif" />
+<img src="https://media.giphy.com/media/O11Sc36BqMyVG/giphy.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Bintang Sholu</h1>
 <h3 align="center">Seorang Mahasiswa Biasa yang bisa bernafas</h3>
