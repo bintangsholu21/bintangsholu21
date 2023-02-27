@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bintangsholu21&label=Profile%20Views&color=ff3def&style=flat" alt="bintangsholu21" /> </p>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
+  <img align="right" top="500" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/iFL8qJ5DVusJG/giphy.gif">
 </a>
 
 - 🔭 Seorang Mahasiswa **Politeknik Negeri Malang**
