@@ -1,19 +1,20 @@
-<p align="center" >
-<img src="https://media.giphy.com/media/O11Sc36BqMyVG/giphy.gif" />
+<p align="center">
+<img src="https://media.giphy.com/media/OwJhwgfpmTKNErbzRv/giphy.gif"></img>
 </p>
+
 <h1 align="center">Hi 👋, I'm Bintang Sholu</h1>
-<h3 align="center">Seorang Mahasiswa Biasa yang bisa bernafas</h3>
+<h3 align="center">Informatics Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bintangsholu21&label=Profile%20Views&color=ff3def&style=flat" alt="bintangsholu21" /> </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/iFL8qJ5DVusJG/giphy.gif">
 </a>
 
-- 🔭 Seorang Mahasiswa **Politeknik Negeri Malang**
-
-- 🌱 I’m currently learning **UI/UX Design**
+- 🌱 I’m currently learning **Flutter Framework & UI/UX Design**
 
 - 📫 How to reach me **bintangsholu@gmail.com**
+
+- ⚡ Fun fact **I Think I Funny**
 <br><br>
 <br><br>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
