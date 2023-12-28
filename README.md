@@ -10,7 +10,7 @@
   <img align="right" top="500" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/iFL8qJ5DVusJG/giphy.gif">
 </a>
 
-- 🌱 I’m currently learning **Flutter Framework & UI/UX Design**
+- 🌱 I’m currently learning **Javascript Framework & Web Fundamental**
 
 - 📫 How to reach me **bintangsholu@gmail.com**
 
