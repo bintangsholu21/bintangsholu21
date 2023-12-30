@@ -1,13 +1,9 @@
-<p align="center">
-<img src="https://media.giphy.com/media/OwJhwgfpmTKNErbzRv/giphy.gif"></img>
-</p>
-
 <h1 align="center">Hi 👋, I'm Bintang Sholu</h1>
 <h3 align="center">Informatics Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bintangsholu21&label=Profile%20Views&color=ff3def&style=flat" alt="bintangsholu21" /> </p>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/iFL8qJ5DVusJG/giphy.gif">
+  <img align="right" top="500" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif">
 </a>
 
 - 🌱 I’m currently learning **Javascript Framework & Web Fundamental**
